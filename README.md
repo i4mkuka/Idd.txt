@@ -78,6 +78,7 @@ Admin chio 1Ᏸ1Ᏸ2Ᏸ4Ᏸ8ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ2Ᏸ4Ᏸ8
 1V30V32V36V30V3uV30V3_V3aV32V36V30  Ide xom v3
 1|0|2|9|0|u|0|_|a|2|9|0 hata 10/1 30 rozh
 1Ᏸ0Ᏸ2Ᏸ6Ᏸ0ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ6Ᏸ0   id xom
+1Ᏸ1Ᏸ3Ᏸ1Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ3Ᏸ1Ᏸ9
 1X0X2X6X0XuX0X_XaX2X6X0     ide xom
 1B0B2B6B0BuB0B_BaB2B6B0    my id 
 1|0|2|6|0|u|0|_|a|2|6|0   ide xom
